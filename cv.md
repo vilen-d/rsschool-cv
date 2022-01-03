@@ -38,3 +38,13 @@ I want to become a Front-End Developer. I study at RSSchool!
 
 ### Work experience:
 *No experience in commercial development*
+
+### Education and courses:
++ School of Business of BSU "WEB-design"
++ Courses:
+  - [HTML Academy](https://htmlacademy.ru/courses) (CSS, HTML)  
+  - [Code Academy](https://www.codecademy.com/catalog/language/html-css)  (CSS, HTML)  
+  - [RS Schools Course В«JavaScript/Front-endВ»](https://rs.school/) (in progress)
+
+### Language:
+English level - A1
