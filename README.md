@@ -1,2 +1,1 @@
-# rsschool-cv
-stage-0-2022
+https://vilen-d.github.io/rsschool-cv/cv
